@@ -21,6 +21,8 @@ Maths Master is an engaging React-based educational quiz application designed to
 - ScoreCard: Shows current score and time left. 
 - QuizManager: Allows the player to select difficulty and loads questions  accordingly.
 -Different files containing questions like easy, medium and hard.
+## Deployed at 
+https://nidyadav.github.io/react-Math-master-quiz/
 
 
 
